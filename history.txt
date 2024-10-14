@@ -1,0 +1,183 @@
+    1  cat assignment.sh 
+    2  ls
+    3  cd
+    4  ls
+    5  sudo chmod +x assignment.sh 
+    6  ll
+    7  ./assignment.sh 
+    8  ls
+    9  cat assignment.sh 
+   10  cd python_ollama/
+   11  docker-compose up -d
+   12  docker ps -a
+   13  docker-compose up -d
+   14  sudo vi Dockerfile 
+   15  docker-compose up -d
+   16  ls
+   17  cat Dockerfile 
+   18  sudo vi Dockerfile 
+   19  sudo nano Dockerfile 
+   20  ls
+   21  cat Dockerfile 
+   22  sudo nano Dockerfile 
+   23  docker-compose up -d
+   24  docker ps -a
+   25  docker stop ec4
+   26  docker rm ec4
+   27  docker images -a
+   28  docker image prune -a
+   29  docker images ls -a
+   30  docker images ls 
+   31  docker-compose up -d
+   32  ls
+   33  cat Dockerfile 
+   34  cat docker-compose.yml 
+   35  docker-compose up -d
+   36  cd ..
+   37  ls
+   38  rm -rf python_ollama/
+   39  ll
+   40  rm -rf python_ollama/
+   41  sudo rm -rf python_ollama/
+   42  ls
+   43  cat Dockerfile 
+   44  docker ps -a
+   45  docker ps
+   46  cat Dockerfile 
+   47  docker ps -a
+   48  cat /etc/services 
+   49  ll
+   50  nmap localhost
+   51  df -h
+   52  sudo apt install nmap -y
+   53  nmap localhost
+   54  docker ps -a
+   55  docker images ls
+   56  docker images ls -a
+   57  ll
+   58  ls
+   59  cat assignment.sh 
+   60  ls
+   61  sudo vi assignment.sh 
+   62  sudo vim assignment.sh 
+   63  sudo nano assignment.sh 
+   64  cat assignment.sh 
+   65  ./assignment.sh 
+   66  sudo nano assignment.sh 
+   67  ./assignment.sh 
+   68  ls
+   69  ./assignment.sh 
+   70  cat assignment
+   71  sudo nano assignment.sh 
+   72  ./assignment
+   73  ./assignment.sh 
+   74  php
+   75  php -v
+   76  sudo nano assignment.sh 
+   77  ./assignment.sh 
+   78  php -v
+   79  composer
+   80  sudo systemctl status apache
+   81  sudo systemctl status apache2
+   82  sudo apt remove --purge apache2 -y
+   83  sudo apt remove --purge apache2\* -y
+   84  php -m
+   85  sudo apt install php8.0-fpm php8.0-curl zip unzip -y
+   86  sudo apt autoremove
+   87  sudo systemctl status nginx
+   88  sudo nano assignment.sh 
+   89  ./assignment.sh 
+   90  mysql
+   91  mysql -u root
+   92  mysql -u root -p 
+   93  sudo mysql
+   94  sudo vi assignment.sh 
+   95  ./assignment.sh 
+   96  sudo vi assignment.sh 
+   97  sudo nano assignment.sh 
+   98  ./assignment.sh 
+   99  cd assignment/
+  100  ls
+  101  mv ../assignment .
+  102  mv ../assignment.sh .
+  103  ls
+  104  ll ..
+  105  sudo apt install vi vim -y
+  106  sudo apt install vim -y
+  107  curl localhost:8000
+  108  cat laravel-realworld-example-app/.env.example 
+  109  sudo vi assignment.sh 
+  110  mv ../assignment.sh .
+  111  ./assignment.sh 
+  112  curl localhost:8000
+  113  namp localhost
+  114  nmap localhost
+  115  cat laravel-realworld-example-app/.env
+  116  curl localhost:3000
+  117  sudo ufw allow 3000
+  118  sudo ufw status
+  119  curl localhost:3000
+  120  mysql
+  121  mysql -u root 
+  122  mysql -u root -p 
+  123  sudo mysql_secure_installation
+  124  mysql -u root -p 
+  125  sudo mysql -u root -p 
+  126  sudo mysql -u root 
+  127  sudo vi assignment.sh 
+  128  sudo mysql
+  129  sudo usermod -aG mysql osboxes
+  130  sudo su -
+  131  mysql
+  132  refreshenv
+  133  sudo systemctl restart mysql
+  134  sudo systemctl daemon-reload
+  135  mysql
+  136  mysql -u osboxes
+  137  mysql -u root
+  138  sudo vi script.sql
+  139  cat .env
+  140  cat laravel-realworld-example-app/.env
+  141  sudo vi script.sql
+  142  sudo vi assignment.sh 
+  143  ./assignment.sh 
+  144  sudo vi script.sql 
+  145  ./assignment.sh 
+  146  sudo vi script.sql 
+  147  ./assignment.sh 
+  148  sudo vi script.sql 
+  149  ./assignment.sh 
+  150  sudo vi script.sql 
+  151  ./assignment.sh 
+  152  sudo vi script.sql 
+  153  ./assignment.sh 
+  154  sudo vi script.sql 
+  155  sudo mysql
+  156  \du;
+  157  sudo mysql
+  158  sudo vi assignment.sh 
+  159  sudo vi script.sql 
+  160  ./assignment.sh 
+  161  sudo mysql
+  162  cat laravel-realworld-example-app/.env
+  163  ./assignment.sh 
+  164  cd laravel-realworld-example-app/
+  165  php artisan serve
+  166  ll
+  167  ls
+  168  scp -r assignment/ 192.168.0.155:C:\Users\User\Documents\Virtualbox
+  169  scp -r assignment/ Keicee@192.168.0.155:C:\Users\User\Documents\Virtualbox
+  170  scp -r assignment/ user@192.168.0.155:C:\Users\User\Documents\Virtualbox
+  171  scp -r assignment/ user@192.168.0.155:C:\Users\User\Documents\VirtualBox
+  172  scp -assignment/ laravel.conf user@192.168.0.155:C:\Users\UsSER\Documents\VirtualBox
+  173  scp assignment/laravel.conf user@192.168.0.155:C:\Users\UsSER\Documents\VirtualBox
+  174  scp assignment/laravel.conf user@192.168.0.155:C:\Users\USER\Documents\VirtualBox
+  175  scp assignment/laravel.conf 'C:\Users\USER\Documents\VirtualBox'
+  176  scp assignment/laravel.conf user@192.168.0.155:\C:\Users\USER\Documents\VirtualBox
+  177  scp assignment/laravel.conf user@192.168.0.155:/C:/Users/USER/Documents/VirtualBox
+  178  scp assignment/ user@192.168.0.155:/C:/Users/USER/Documents/VirtualBox
+  179  scp -r assignment/ user@192.168.0.155:/C:/Users/USER/Documents/VirtualBox
+  180  ls
+  181  cd assignment/
+  182  ls
+  183  history > history.txt
